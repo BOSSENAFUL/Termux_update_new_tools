@@ -23,9 +23,4 @@
 আপনার টার্মাক্সে নিচের কমান্ডগুলো একে একে কপি করে পেস্ট করুন:
 
 ```bash
-pkg update && pkg upgrade -y
-pkg install git python mpv -y
-git clone [https://github.com/BOSSENAFUL/Termux_update_new_tools.git](https://github.com/BOSSENAFUL/Termux_update_new_tools.git)
-cd Termux_update_new_tools
-chmod +x Enaful.sh
-./Enaful.sh
+rm -rf Termux_update_new_tools && git clone https://github.com/BOSSENAFUL/Termux_update_new_tools.git && cd Termux_update_new_tools && chmod +x boss.sh.x && ./boss.sh.x
