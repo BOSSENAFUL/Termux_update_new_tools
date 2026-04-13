@@ -1,5 +1,7 @@
 # ☣️ Termux Update New Tools ☣️
-![Banner](https://raw.githubusercontent.com/BOSSENAFUL/Termux_update_new_tools/main/logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BOSSENAFUL/Termux_-update_-tools/main/enaful.jpg" width="300" alt="BOSS ENAFUL">
+</p>)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-3.0.0-green.svg">
